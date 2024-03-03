@@ -1,0 +1,125 @@
+/* 
+.search-wrapper {
+  
+   
+    box-shadow: -1px 15px 17px -8px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+    width: 100%;
+    background-color: #fff;
+}
+
+.padding-search {
+    padding: 12px 0;
+}
+
+.search .logo img {
+    width: auto; 
+    height: auto;
+}
+
+/* .drop-down-hover {
+    background-color: #fff;
+    color: #000;
+    position: relative;
+    z-index: 99;
+    top: 42px;
+    right: 178px;
+    width: 285px;
+    min-height: 535px;
+    text-align: center;
+    visibility: hidden;
+    transition: 0.5s ease;
+}
+.drop-down-search  li {
+    margin-top: 10px;
+    padding: 8px 0;
+    font-size: 14px;
+}
+.hover-class:hover .drop-down-search  {
+    visibility: visible;
+    
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+     transition: 0.5s ease; 
+}
+.drop-down-search  li:hover   {
+    background-color: #0f3460;
+    color: #fff;
+    transition:  0.05s ;
+} */
+/* .search .width {
+    width: 20%;
+}
+.logo-width  h3{
+
+    font-size: 22px;
+    font-family: sans-serif;
+    color: #fff;
+    border-radius: 50%;
+    border: 3px solid #000;
+    padding: 8px;
+    text-align: center;
+    position: relative;
+    left: 135px;
+  
+}
+.search-box {
+    width: 80%;
+    border: 2px solid  rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.search-box i {
+    width: 5%;
+    text-align: center;
+    font-size: 20px;
+    opacity: 0.5;
+    padding: 15px 20px;
+    font-size: 17px;
+}
+
+.search-box input {
+    width: 100%;
+    padding: 10px;
+   
+}
+.search-box:focus {
+    color: orange;
+    background-color: orange;
+}
+::placeholder {
+    font-size: 15px;
+}
+.search-box span {
+    width: 20%;
+    opacity: 0.5;
+    border-left: 2px solid rgba(0, 0, 0 , 0.1 );
+    padding: 10px;
+}
+.cart {
+    position: relative
+}
+.cart h5 {
+    color: #000000;
+}
+
+.search .cart span {
+    position: absolute;
+    top: -10px;
+    right: 0;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #e94560;
+    font-size: 12px;
+    color: #fff;
+}
+.search .f_flex {
+    justify-content: end;
+}
+.wishlist-image {
+    width: 20px;
+    height: 20px
+} */ 
